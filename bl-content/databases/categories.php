@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"general":{"name":"General","description":"","template":"","list":["about"]},"music":{"name":"Music","description":"","template":"","list":[]},"trending-now":{"name":"Trending Now","template":"","description":"","list":["how-to-print-a-temperature-tower-with-cura","title"]},"videos":{"name":"Videos","description":"","template":"","list":[]}}
